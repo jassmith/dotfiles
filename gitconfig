@@ -1,11 +1,9 @@
 [user]
-	name = Mark Probst
-	email = mark.probst@gmail.com
+	name = Jason Smith
+	email = jason@heyglide.com
 
 [core]
-	editor = zile
 	pager = tig
-	excludesfile = /Users/schani/.gitignore_global
 
 [color]
 	pager = false
